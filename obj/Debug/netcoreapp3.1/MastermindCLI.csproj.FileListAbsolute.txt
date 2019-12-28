@@ -1,0 +1,11 @@
+C:\Coding\Challenges\MastermindCLI\bin\Debug\netcoreapp3.1\MastermindCLI.exe
+C:\Coding\Challenges\MastermindCLI\bin\Debug\netcoreapp3.1\MastermindCLI.deps.json
+C:\Coding\Challenges\MastermindCLI\bin\Debug\netcoreapp3.1\MastermindCLI.runtimeconfig.json
+C:\Coding\Challenges\MastermindCLI\bin\Debug\netcoreapp3.1\MastermindCLI.runtimeconfig.dev.json
+C:\Coding\Challenges\MastermindCLI\bin\Debug\netcoreapp3.1\MastermindCLI.dll
+C:\Coding\Challenges\MastermindCLI\bin\Debug\netcoreapp3.1\MastermindCLI.pdb
+C:\Coding\Challenges\MastermindCLI\obj\Debug\netcoreapp3.1\MastermindCLI.csprojAssemblyReference.cache
+C:\Coding\Challenges\MastermindCLI\obj\Debug\netcoreapp3.1\MastermindCLI.AssemblyInfoInputs.cache
+C:\Coding\Challenges\MastermindCLI\obj\Debug\netcoreapp3.1\MastermindCLI.AssemblyInfo.cs
+C:\Coding\Challenges\MastermindCLI\obj\Debug\netcoreapp3.1\MastermindCLI.dll
+C:\Coding\Challenges\MastermindCLI\obj\Debug\netcoreapp3.1\MastermindCLI.pdb
