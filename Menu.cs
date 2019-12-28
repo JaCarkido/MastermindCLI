@@ -25,12 +25,12 @@ namespace MastermindCLI
                 Console.WriteLine((i + 1) + ") " + menuOption[i]);
             }
             
-            // exception handling makes sure the character entered can be parsed to an int
+            // exception handling makes sure the character entered can be parsed to an int, ie not a string/char
             try
             {
                 userSelection = int.Parse(Console.ReadLine()) - 1;
                 
-                //checks to make sure userSelection is a valid int selection
+                //checks to make sure userSelection is within the appropriate range
                 if (userSelection > menuOption.Length)
                 {
                     retry();

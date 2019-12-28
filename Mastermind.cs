@@ -11,8 +11,6 @@ namespace MastermindCLI
         //Methods
         public void getRandomNums(List<int> mastermindNums)
         {
-            // this clears the list for a new game
-            mastermindNums.Clear();
             for (int i = 0; i < 4; i++) 
             {
                 int randomNum;
@@ -116,7 +114,6 @@ namespace MastermindCLI
             for (int i = 0; i < userInput.Length; i++)
             {
                 // exception handling for non-integers entered by the user.  Allows the user to reguess or exit via recursion
-                //The user has three attempts before the applicaiton is automatically exited (this is to avoid an infinate loop via recurison)
                 try 
                 {
                     userGuess.Add(int.Parse(userInput[i].ToString()));
